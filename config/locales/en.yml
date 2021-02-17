@@ -313,7 +313,7 @@ en:
   landing:
     about: "Edurex is a Learning & Content authoring tools for modern education, serving students, tutors and administrators of k12,Higer education organization,Virtual School and Government Schools."
     welcome: Welcome to Edurex.
-    video: Watch our tutorial on using Greenlight
+    video: Watch our tutorial on using Edurex
     upgrade: Show me how to upgrade to 2.0!
     version: We've released a new version of Edurex Virtual Learning, but your database isn't compatible.
   language_default: Default (browser language)
